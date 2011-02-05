@@ -43,3 +43,6 @@
 [submodule "text.tmbundle"]
 	path = text.tmbundle
 	url = https://github.com/textmate/text.tmbundle.git
+[submodule "javascript-tools.tmbundle"]
+	path = javascript-tools.tmbundle
+	url = https://github.com/subtleGradient/javascript-tools.tmbundle.git
