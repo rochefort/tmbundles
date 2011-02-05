@@ -1,9 +1,6 @@
 [submodule "bundle-development.tmbundle"]
 	path = bundle-development.tmbundle
 	url = https://github.com/textmate/bundle-development.tmbundle.git
-[submodule "cucumber-tmbundle"]
-	path = cucumber-tmbundle
-	url = https://github.com/aslakhellesoy/cucumber-tmbundle.git
 [submodule "rspec-tmbundle"]
 	path = rspec-tmbundle
 	url = https://github.com/dchelimsky/rspec-tmbundle.git
