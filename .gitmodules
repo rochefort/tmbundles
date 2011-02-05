@@ -43,3 +43,6 @@
 [submodule "javascript-tools.tmbundle"]
 	path = javascript-tools.tmbundle
 	url = https://github.com/subtleGradient/javascript-tools.tmbundle.git
+[submodule "Cucumber.tmbundle"]
+	path = Cucumber.tmbundle
+	url = https://github.com/aslakhellesoy/cucumber-tmbundle.git
