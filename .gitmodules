@@ -31,9 +31,6 @@
 [submodule "source.tmbundle"]
 	path = source.tmbundle
 	url = https://github.com/textmate/source.tmbundle.git
-[submodule "git-tmbundle"]
-	path = git-tmbundle
-	url = https://github.com/jcf/git-tmbundle.git
 [submodule "text.tmbundle"]
 	path = text.tmbundle
 	url = https://github.com/textmate/text.tmbundle.git
@@ -45,4 +42,7 @@
 	url = https://github.com/aslakhellesoy/cucumber-tmbundle.git
 [submodule "RSpec.tmbundle"]
 	path = RSpec.tmbundle
-	url = https://github.com/dchelimsky/rspec-tmbundle.git
+	url = https://github.com/rspec/rspec-tmbundle.git
+[submodule "Git.tmbundle"]
+	path = Git.tmbundle
+	url = https://github.com/jcf/git-tmbundle.git
