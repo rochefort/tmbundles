@@ -1,0 +1,45 @@
+[submodule "bundle-development.tmbundle"]
+	path = bundle-development.tmbundle
+	url = https://github.com/textmate/bundle-development.tmbundle.git
+[submodule "cucumber-tmbundle"]
+	path = cucumber-tmbundle
+	url = https://github.com/aslakhellesoy/cucumber-tmbundle.git
+[submodule "rspec-tmbundle"]
+	path = rspec-tmbundle
+	url = https://github.com/dchelimsky/rspec-tmbundle.git
+[submodule "c.tmbundle"]
+	path = c.tmbundle
+	url = https://github.com/textmate/c.tmbundle.git
+[submodule "javascript.tmbundle"]
+	path = javascript.tmbundle
+	url = https://github.com/textmate/javascript.tmbundle.git
+[submodule "objective-c.tmbundle"]
+	path = objective-c.tmbundle
+	url = https://github.com/textmate/objective-c.tmbundle.git
+[submodule "perl.tmbundle"]
+	path = perl.tmbundle
+	url = https://github.com/textmate/perl.tmbundle.git
+[submodule "php.tmbundle"]
+	path = php.tmbundle
+	url = https://github.com/textmate/php.tmbundle.git
+[submodule "python.tmbundle"]
+	path = python.tmbundle
+	url = https://github.com/textmate/python.tmbundle.git
+[submodule "ruby-on-rails.tmbundle"]
+	path = ruby-on-rails.tmbundle
+	url = https://github.com/textmate/ruby-on-rails.tmbundle.git
+[submodule "ruby.tmbundle"]
+	path = ruby.tmbundle
+	url = https://github.com/textmate/ruby.tmbundle.git
+[submodule "textmate.tmbundle"]
+	path = textmate.tmbundle
+	url = https://github.com/textmate/textmate.tmbundle.git
+[submodule "source.tmbundle"]
+	path = source.tmbundle
+	url = https://github.com/textmate/source.tmbundle.git
+[submodule "git-tmbundle"]
+	path = git-tmbundle
+	url = https://github.com/jcf/git-tmbundle.git
+[submodule "text.tmbundle"]
+	path = text.tmbundle
+	url = https://github.com/textmate/text.tmbundle.git
