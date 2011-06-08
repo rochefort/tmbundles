@@ -46,3 +46,6 @@
 [submodule "Git.tmbundle"]
 	path = Git.tmbundle
 	url = https://github.com/jcf/git-tmbundle.git
+[submodule "JavaScript-Appcelerator-Titanium-Mobile.tmbundle"]
+	path = JavaScript-Appcelerator-Titanium-Mobile.tmbundle
+	url = https://github.com/subtleGradient/JavaScript-Appcelerator-Titanium-Mobile.tmbundle.git
