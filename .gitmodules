@@ -49,3 +49,6 @@
 [submodule "JavaScript-Appcelerator-Titanium-Mobile.tmbundle"]
 	path = JavaScript-Appcelerator-Titanium-Mobile.tmbundle
 	url = https://github.com/subtleGradient/JavaScript-Appcelerator-Titanium-Mobile.tmbundle.git
+[submodule "ruby-on-rails-tmbundle"]
+	path = ruby-on-rails-tmbundle
+	url = https://github.com/drnic/ruby-on-rails-tmbundle
