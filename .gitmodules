@@ -21,7 +21,7 @@
 	url = https://github.com/textmate/python.tmbundle.git
 [submodule "ruby-on-rails.tmbundle"]
 	path = ruby-on-rails.tmbundle
-	url = https://github.com/textmate/ruby-on-rails.tmbundle.git
+	url = https://github.com/drnic/ruby-on-rails-tmbundle
 [submodule "ruby.tmbundle"]
 	path = ruby.tmbundle
 	url = https://github.com/textmate/ruby.tmbundle.git
