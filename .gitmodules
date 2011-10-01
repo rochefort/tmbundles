@@ -52,3 +52,6 @@
 [submodule "ruby-on-rails-tmbundle"]
 	path = ruby-on-rails-tmbundle
 	url = https://github.com/drnic/ruby-on-rails-tmbundle
+[submodule "ruby-slim-tmbundle"]
+	path = ruby-slim-tmbundle
+	url = https://github.com/fredwu/ruby-slim-tmbundle
