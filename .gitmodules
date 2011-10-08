@@ -61,3 +61,6 @@
 [submodule "ruby-slim.tmbundle"]
 	path = ruby-slim.tmbundle
 	url = https://github.com/fredwu/ruby-slim-tmbundle
+[submodule "jquery.tmbundle"]
+	path = jquery.tmbundle
+	url = https://github.com/kswedberg/jquery-tmbundle.git
