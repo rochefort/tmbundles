@@ -64,3 +64,15 @@
 [submodule "jquery.tmbundle"]
 	path = jquery.tmbundle
 	url = https://github.com/kswedberg/jquery-tmbundle.git
+[submodule "textmate-missingdrawer.tmbundle"]
+	path = textmate-missingdrawer.tmbundle
+	url = https://github.com/jezdez/textmate-missingdrawer.git
+[submodule "MissingDrawer.tmplugin"]
+	path = MissingDrawer.tmplugin
+	url = https://github.com/jezdez/textmate-missingdrawer.git
+[submodule "SCSS.tmbundle"]
+	path = SCSS.tmbundle
+	url = https://github.com/kuroir/SCSS.tmbundle.git
+[submodule "SCSS + Zen.tmbundle"]
+	path = SCSS + Zen.tmbundle
+	url = https://github.com/kuroir/SCSS.tmbundle.git
