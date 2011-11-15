@@ -39,7 +39,7 @@
 	url = https://github.com/subtleGradient/javascript-tools.tmbundle.git
 [submodule "Cucumber.tmbundle"]
 	path = Cucumber.tmbundle
-	url = https://github.com/aslakhellesoy/cucumber-tmbundle.git
+	url = https://github.com/bmabey/cucumber-tmbundle.git
 [submodule "RSpec.tmbundle"]
 	path = RSpec.tmbundle
 	url = https://github.com/rspec/rspec-tmbundle.git
