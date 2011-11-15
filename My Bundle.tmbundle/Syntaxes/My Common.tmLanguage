@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>My Common</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>#whitespace-zenkaku</string>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>#whitespace-last-line</string>
+		</dict>
+	</array>
+	<key>repository</key>
+	<dict>
+		<key>whitespace-last-line</key>
+		<dict>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>match</key>
+					<string>\s$</string>
+					<key>name</key>
+					<string>invalid.whitespace-last-line</string>
+				</dict>
+			</array>
+		</dict>
+		<key>whitespace-zenkaku</key>
+		<dict>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>match</key>
+					<string>　</string>
+					<key>name</key>
+					<string>invalid.whitespace-zenkaku</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>scopeName</key>
+	<string>my.common</string>
+	<key>uuid</key>
+	<string>8432CB0B-200C-4D58-9C3C-1C1F50E9F57D</string>
+</dict>
+</plist>
