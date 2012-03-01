@@ -76,3 +76,6 @@
 [submodule "SCSS + Zen.tmbundle"]
 	path = SCSS + Zen.tmbundle
 	url = https://github.com/kuroir/SCSS.tmbundle.git
+[submodule "coffee-script.tmbumdle"]
+	path = coffee-script.tmbumdle
+	url = https://github.com/jashkenas/coffee-script-tmbundle.git
